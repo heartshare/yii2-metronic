@@ -1,6 +1,6 @@
 {
     "name": "iit/yii2-metronic",
-    "description": "Yii2文件管理组件",
+    "description": "Yii2 Metronic模板",
     "type": "yii2-extension",
     "version": "1.0.0",
     "license": "MIT",
